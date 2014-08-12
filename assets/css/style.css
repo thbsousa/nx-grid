@@ -1,0 +1,10 @@
+.nx-GridTop ul { overflow:auto; background:#9D9C9C; color:#ffffff; padding:5px 0 }
+.nx-GridIn ul { overflow:auto; border-top:1px solid #CCCCCC; padding:5px 0 }
+.nx-GridIn ul:first-child { border-top:none }
+.nx-GridTop ul li { float:left; padding:0 5px }
+.nx-GridIn ul { clear:left }
+.nx-GridIn ul li { float:left; padding:0 5px }
+
+.coluna0 { width:55px }
+.coluna1 { width:55px; text-align:right }
+.coluna2 { width:400px }
